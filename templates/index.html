@@ -1,0 +1,86 @@
+<!DOCTYPE HTML>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>IAAC Finals Practice</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="static/css/main.css" />
+		<noscript><link rel="stylesheet" href="static/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" style="padding: 0">
+
+				<!-- Header
+					<header id="header" class="alt">
+						<h1>IAAC Finals Practice Site</h1>
+					</header> -->
+
+				<!-- Main -->
+				<div id="main">
+
+					<div class="inner">
+						<header class="major">
+							<h2>IAAC Finals Practice Site</h2>
+						</header><script type="module" src=""></script>
+						<!-- <p>All questions are either created in a similar format or taken from past IAAC exams.</p> -->
+
+						<ul class="actions">
+							<li><a class="button fit" onclick="genQuestion()">Generate!</a></li>
+						</ul>
+
+						<div style="display: flex; align-items: center; justify-content: space-between;">
+							<h3 id="questiontext" style="margin: 0; margin-right: 20px">Question: </h3>
+							
+							<div id="timerdiv" style="display: flex; align-items: center; gap: 20px">
+								<h3 id="timer" style="margin: 0;">Timer: 00:00</h3>
+								<input type="checkbox" id="disable">
+								<label for="disable" style="margin: 0;">Disable Timer</label>
+							</div>
+						</div>
+						<img id="qimg" src="">
+						<div class="anschoice">
+							<input type="radio" id="A" name="ans">
+							<label for="A">A</label>
+						</div>
+						<div class="anschoice">
+							<input type="radio" id="B" name="ans">
+							<label for="B">B</label>
+						</div>
+						<div class="anschoice">
+							<input type="radio" id="C" name="ans">
+							<label for="C">C</label>
+						</div>
+						<div class="anschoice">
+							<input type="radio" id="D" name="ans">
+							<label for="D">D</label>
+						</div>
+						<br>
+						<ul class="actions">
+							<li><a class="button primary" onclick="checkAns()">Submit</a></li>
+						</ul>
+						<div class="box" style="display: flex; align-items: center; justify-content: space-between;">
+							<p id="answerbox" style="margin: 0;"></p>
+							<a class="button small" onclick="genQuestion()" id="nextbtn" style="display: none;">Next</a>
+						</div>
+					</div>
+				</div>
+			</div>
+
+		<!-- Scripts -->
+			<script src="static/js/jquery.min.js"></script>
+			<script src="static/js/jquery.scrolly.min.js"></script>
+			<script src="static/js/jquery.scrollex.min.js"></script>
+			<script src="static/js/browser.min.js"></script>
+			<script src="static/js/breakpoints.min.js"></script>
+			<script src="static/js/util.js"></script>
+			<script src="static/js/main.js"></script>
+			<script src="static/js/script.js"></script>
+	</body>
+</html>

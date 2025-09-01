@@ -1,0 +1,158 @@
+[
+  {
+    "Question":"Which one of these stars can be seen only in the Southern Hemisphere?",
+    "Options":"Antares; Arcturus; Alpha Centauri; Altair",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"Which one of these constellations can be seen only in the Southern Hemisphere?",
+    "Options":"Cepheus; Cassiopeia; Cygnus; Crux",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"What kind of astronomical object is the Large Magellanic Cloud?",
+    "Options":"Constellation; Dwarf Galaxy; Nebula; Star Cluster",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"How many stars are there in the Milky Way?",
+    "Options":"10 - 100 billion; 100 - 400 billion; 400 - 900 billion; 900 - 1200 billion",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"On Earth\u2019s surface, objects fall with a gravitational acceleration of approximately ...",
+    "Options":"9.8 m\/s2; 11.9 m\/s2; 19.5 m\/s2; 32.2 m\/s2",
+    "Answer":"A",
+    "Image":""
+  },
+  {
+    "Question":"The cosmic microwave background can be detected using a ...",
+    "Options":"x-ray telescope; optical telescope; infrared telescope; radio telescope",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"The rotational speed at Earth\u2019s equator is about 1,600 km\/h. What is the rotational speed at Earth\u2019s poles?",
+    "Options":"0 km\/h; 800 km\/h; 1,131 km\/h; 1,600 km\/h",
+    "Answer":"A",
+    "Image":""
+  },
+  {
+    "Question":"Which latitude is best suited for a rocket launch?",
+    "Options":"5\u00b0N; 15\u00b0S; 45\u00b0N; 90\u00b0S",
+    "Answer":"A",
+    "Image":""
+  },
+  {
+    "Question":"The altitude of the International Space Station (ISS) is around ...",
+    "Options":"250 km; 380 km; 410 km; 520 km",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"The ISS descends over time primarily due to ...",
+    "Options":"changes in Earth\u2019s rotational speed; pressure from the solar wind; gravitational pull from the Moon; collision with atmospheric particles",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"Space is often considered to start at an altitude of ...",
+    "Options":"50 km above ground; 100 km above ground; 150 km above ground; 200 km above ground",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"What is the name of the region marked in the horizontal Milky Way drawing below?",
+    "Options":"galactic bulge; galactic disk; galactic halo; galactic continuum",
+    "Answer":"C",
+    "Image":"static/images/2024q12.png"
+  },
+  {
+    "Question":"What is the name of the region marked in the horizontal Milky Way drawing below?",
+    "Options":"galactic bulge; galactic disk; galactic halo; galactic continuum",
+    "Answer":"A",
+    "Image":"static/images/2024q13.png"
+  },
+  {
+    "Question":"Einstein rings are caused by ...",
+    "Options":"interference of light; magnetic field distortion; gravitational lensing; light scattering from interstellar dust",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"What is the initial mass function (IMF) in astronomy?",
+    "Options":"frequency of star formation events in a galaxy; spatial distribution of stars in a star cluster; distribution of star masses during formation; chemical composition of newly formed stars",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"What is a spectral energy distribution (SED) plot in astronomy?",
+    "Options":"plot of energy versus wavelength; plot of energy versus distance; plot of energy versus density; plot of energy versus time",
+    "Answer":"A",
+    "Image":""
+  },
+  {
+    "Question":"Io is a moon of the planet ...",
+    "Options":"Venus; Jupiter; Saturn; Uranus",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"Which spacecraft orbits currently around Jupiter?",
+    "Options":"Voyager; Cassini; New Horizons; Juno",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"How do volcanoes at the poles of the moon Io differ from volcanoes at the equator?",
+    "Options":"polar volcanoes are less energetic; polar volcanoes are less densely distributed; polar volcanoes are more energetic; polar volcanoes are more densely distributed",
+    "Answer":"A",
+    "Image":""
+  },
+  {
+    "Question":"How many volcanic hot spots were observable on the surface of the moon Io between 2017 and 2022?",
+    "Options":"26; 56; 136; 266",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"Which mechanism causes volcanic activity on the moon Io?",
+    "Options":"solar radiation heat absorption; impact from meteor showers; tidally induced internal heating; mantle convection heat transfer",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"How many people have stepped on the moon as of 2024?",
+    "Options":"8; 12; 22; 32",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"Which one of these planets is never visible at midnight?",
+    "Options":"Venus; Mars; Jupiter; Uranus",
+    "Answer":"A",
+    "Image":""
+  },
+  {
+    "Question":"Schmidt, Cassegrain, and Galilean are names for famous ...",
+    "Options":"spacecraft types; comet types; telescope types; wavelength types",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"Most stars are cooler than the Sun and emit most of their energy as ...",
+    "Options":"ultraviolet light; visible light; radio waves; infrared light",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"Astronomers use Cepheid stars as a measurement for ...",
+    "Options":"velocity; distance; diameter; spectral composition",
+    "Answer":"B",
+    "Image":""
+  }
+]
