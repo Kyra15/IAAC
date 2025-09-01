@@ -33,6 +33,9 @@ function genQuestion() {
 
     if (!(document.getElementById("disable").checked)) {
         timer()
+        document.getElementById("timer").style = "display: block; margin: 0;"
+    } else {
+        document.getElementById("timer").style = "display: none; margin: 0;"
     }
 
     const answerBtns = document.getElementsByClassName("anschoice")
@@ -101,6 +104,13 @@ function correct() {
     nextBtn.style = "display: block"
 }
 
+function ranout() {
+    const ansBox = document.getElementById("answerbox")
+    ansBox.innerHTML = "Time's up! The answer was " + json_data[question_ind]["Answer"] + "."
+    const nextBtn = document.getElementById("nextbtn")
+    nextBtn.style = "display: block"   
+}
+
 
 function incorrect() {
     console.log("incorrect")
@@ -119,11 +129,13 @@ function timer(){
     }
     var sec = 60;
     timerint = setInterval(function(){
-        document.getElementById('timer').innerHTML= ' Timer: 00:'+sec;
+        let displaySec = sec < 10 ? '0' + sec : sec;
+        document.getElementById('timer').innerHTML= ' Timer: 00:'+displaySec;
         sec--;
         if (sec < 0) {
             clearInterval(timerint);
             timerint = null
+            ranout()
         }
     }, 1000);
 }
