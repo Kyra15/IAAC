@@ -24,8 +24,8 @@
     "Image":""
   },
   {
-    "Question":"On Earth\u2019s surface, objects fall with a gravitational acceleration of approximately ...",
-    "Options":"9.8 m\/s2; 11.9 m\/s2; 19.5 m\/s2; 32.2 m\/s2",
+    "Question":"On Earth's surface, objects fall with a gravitational acceleration of approximately ...",
+    "Options":"9.8 m/s2; 11.9 m/s2; 19.5 m/s2; 32.2 m/s2",
     "Answer":"A",
     "Image":""
   },
@@ -36,14 +36,14 @@
     "Image":""
   },
   {
-    "Question":"The rotational speed at Earth\u2019s equator is about 1,600 km\/h. What is the rotational speed at Earth\u2019s poles?",
-    "Options":"0 km\/h; 800 km\/h; 1,131 km\/h; 1,600 km\/h",
+    "Question":"The rotational speed at Earth's equator is about 1,600 km/h. What is the rotational speed at Earth's poles?",
+    "Options":"0 km/h; 800 km/h; 1,131 km/h; 1,600 km/h",
     "Answer":"A",
     "Image":""
   },
   {
     "Question":"Which latitude is best suited for a rocket launch?",
-    "Options":"5\u00b0N; 15\u00b0S; 45\u00b0N; 90\u00b0S",
+    "Options":"5°N; 15°S; 45°N; 90°S",
     "Answer":"A",
     "Image":""
   },
@@ -55,7 +55,7 @@
   },
   {
     "Question":"The ISS descends over time primarily due to ...",
-    "Options":"changes in Earth\u2019s rotational speed; pressure from the solar wind; gravitational pull from the Moon; collision with atmospheric particles",
+    "Options":"changes in Earth's rotational speed; pressure from the solar wind; gravitational pull from the Moon; collision with atmospheric particles",
     "Answer":"D",
     "Image":""
   },
@@ -152,6 +152,426 @@
   {
     "Question":"Astronomers use Cepheid stars as a measurement for ...",
     "Options":"velocity; distance; diameter; spectral composition",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"Which one of these shapes illustrates an elliptical galaxy?",
+    "Options":"A; B; C; D",
+    "Answer":"B",
+    "Image":"static/images/2023q1.png"
+  },
+  {
+    "Question":"What is the class of this galaxy?",
+    "Options":"Spiral; Barred Spiral; Lenticular; Elliptical",
+    "Answer":"A",
+    "Image":"static/images/2023q2.png"
+  },
+  {
+    "Question":"Which class of galaxies does this shape illustrate?",
+    "Options":"Barred Spiral; Lenticular; Elliptical; Irregular",
+    "Answer":"A",
+    "Image":"static/images/2023q3.png"
+  },
+  {
+    "Question":"The speed of light is approximately ...",
+    "Options":"3 · 10³ km/s; 3 · 10⁵ km/s; 3 · 10⁶ km/s; 3 · 10⁹ km/s",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"What is the most common type of galaxy in the universe?",
+    "Options":"Spiral galaxy; Lenticular galaxy; Irregular galaxy; Elliptical galaxy",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"How far away from Earth is a star with an observed parallax of 0.1 arcsecs?",
+    "Options":"1 pc; 3 pc; 10 pc; 30 pc",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"Which one of these points is the aphelion of the ellipse?",
+    "Options":"A; B; C; D",
+    "Answer":"C",
+    "Image":"static/images/2023q7.png"
+  },
+  {
+    "Question":"What is true about the orbit of a comet called C/2023 A3?",
+    "Options":"non-periodic orbit; periodic orbit; elliptical orbit; no meaningful orbit",
+    "Answer":"A",
+    "Image":""
+  },
+  {
+    "Question":"The term dark energy is related to ...",
+    "Options":"the gravitation of black holes; the matter in the universe; the rotation of galaxies; the expansion of the universe",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"Which landforms near the Zhurong landing site on Mars are likely related to volcanism?",
+    "Options":"Rampart craters, Ridges, Troughs; Ridges, Rampart craters, Transverse aeolian ridges; Ridges, Cones, Transverse aeolian ridges; Cones, Ridges, Troughs",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"The gravitational acceleration at the surface of a star with average density ρ and radius R is given by ...",
+    "Options":"4/3 πGρR; 4/3 πGρR²; 4/3 πGρR³; 4/3 πGρ/R",
+    "Answer":"A",
+    "Image":""
+  },
+  {
+    "Question":"The Zhurong Mars rover landed at an elevation of around ...",
+    "Options":"-8,000 metres; -4,000 metres; 4,000 metres; 8,000 metres",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"Which instrument onboard the Zhurong Mars rover measures the magnetic field?",
+    "Options":"RoMAG; RoPeR; MarSCoDe; NaTeCams",
+    "Answer":"A",
+    "Image":""
+  },
+  {
+    "Question":"Which object was historically the reference value m₀ for the apparent magnitude?",
+    "Options":"The Sun; North/Pole Star; Sirius (star); Vega (star)",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"About how much brighter is a star with an apparent magnitude of m = 1 compared to a star with an apparent magnitude of m = 2?",
+    "Options":"2.5-times brighter; 5.0-times brighter; 10-times brighter; 25-times brighter",
+    "Answer":"A",
+    "Image":""
+  },
+  {
+    "Question":"Hydrostatic equilibrium can best be described as the equilibrium between ...",
+    "Options":"temperature and pressure; friction and pressure; density and pressure; gravity and pressure",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"The ideal gas law states that ... (T: temperature, p: pressure, V: volume, N: number of particles, k: Boltzmann constant)",
+    "Options":"pV = Nk/T; pT = NkV; pT = Nk/V; pV = NkT",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"How long is a year on Mars?",
+    "Options":"≈ 300 Earth-days; ≈ 500 Earth-days; ≈ 700 Earth-days; ≈ 1,000 Earth-days",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"Where on Mars did the Zhurong rover of the Tianwen-1 mission land?",
+    "Options":"Site A; Site B; Site C; Site D",
+    "Answer":"B",
+    "Image":"static/images/2023q19.png"
+  },
+  {
+    "Question":"The colour of light with a wavelength of 700 nanometers is ...",
+    "Options":"Green; Blue; Yellow; Red",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"How high was the star formation rate in the Galactic Center in the past 10-100 billion years?",
+    "Options":"0.01 solar masses per year; 0.1 solar masses per year; 10 solar masses per year; 100 solar masses per year",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"The two young massive clusters near the Galactic Centre are called ...",
+    "Options":"Sagittarius and Parsec; Sagittarius and Quintuplet; Arches and Parsec; Arches and Quintuplet",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"How far away is the centre of the Milky Way from Earth?",
+    "Options":"≈ 10,000 light-years; ≈ 25,000 light-years; ≈ 50,000 light-years; ≈ 100,000 light-years",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"The atmosphere of Mars consists primarily of ...",
+    "Options":"Nitrogen; Oxygen; Carbon dioxide; Carbon monoxide",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"Approximately how many stars are there in the Milky Way?",
+    "Options":"20 billion; 50 billion; 200 billion; 500 billion",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"The bending of starlight when it passes through a gravitational field is called ...",
+    "Options":"stellar parallax; gravitational redshift; gravitational lensing; stellar occultation",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"The outermost layer of the Sun that is visible during a total solar eclipse is called the ...",
+    "Options":"Corona; Photosphere; Chromosphere; Heliosphere",
+    "Answer":"A",
+    "Image":""
+  },
+  {
+    "Question":"The fusion process that generates the Sun's energy is called ...",
+    "Options":"Carbon-nitrogen-oxygen cycle; Triple-alpha process; Proton-proton chain; Bethe-Weise process",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"How does the temperature of a star affect the distribution of photon energies it emits?",
+    "Options":"Higher temperature leads to higher-energy photons; Lower temperature leads to higher-energy photons; Photon energies are independent of temperature; None of the above applies",
+    "Answer":"A",
+    "Image":""
+  },
+  {
+    "Question":"The asteroid belt of the solar system is between the orbits of ...",
+    "Options":"Earth and Mars; Mars and Jupiter; Jupiter and Saturn; Saturn and Uranus",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"What is the name of the JWST component highlighted below?",
+    "Options":"Primary mirror; Secondary mirror; Optics subsystem; Antenna",
+    "Answer":"B",
+    "Image":"static/images/2022q1.png"
+  },
+  {
+    "Question":"What is the name of the JWST component highlighted below?",
+    "Options":"Stabilization flap; Spacecraft bus; Antenna; Star tracker",
+    "Answer":"C",
+    "Image":"static/images/2022q2.png"
+  },
+  {
+    "Question":"What is the name of the JWST component highlighted below?",
+    "Options":"Antenna; Sunshield; Optics subsystem; Stabilization flap",
+    "Answer":"D",
+    "Image":"static/images/2022q3.png"
+  },
+  {
+    "Question":"When a neutron star rotates, it becomes a ...",
+    "Options":"Neutron dwarf; Rotar; Quasar; Pulsar",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"If the Earth had the density of a neutron star, what would be the diameter of the Earth?",
+    "Options":"between 1 - 100 m; between 100 - 500 m; between 500 - 1000 m; between 1000 - 5000 m",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"Where in space is the JWST located?",
+    "Options":"Geostationary orbit; In the Moon's shadow; Lagrange point; Between Earth and Moon",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"Two asteroids with masses m₁, m₂ and velocities v₁, v₂ collide horizontally and merge into a single object. What is the velocity of the new asteroid?",
+    "Options":"(m₁v₁+m₂v₂)/2; (m₁v₁+m₂v₂)/(m₁+m₂); (m₁v₁-m₂v₂)/2; (m₁v₁-m₂v₂)/(m₁+m₂)",
+    "Answer":"D",
+    "Image":"static/images/2022q7.png"
+  },
+  {
+    "Question":"Which one of these wavelengths is considered ultraviolet radiation?",
+    "Options":"150 meters; 150 millimeters; 150 micrometers; 150 nanometers",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"Which one of these wavelengths is considered infrared radiation?",
+    "Options":"150 meters; 150 millimeters; 150 micrometers; 150 nanometers",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"The planet's albedo is the fraction of incident light ...",
+    "Options":"reflected by the planet's surface; absorbed by the planet's surface; blocked by the planet's surface; emitted by the planet's surface",
+    "Answer":"A",
+    "Image":""
+  },
+  {
+    "Question":"Earth's current average surface temperature is around ...",
+    "Options":"5°C; 10°C; 15°C; 20°C",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"Which of the following acronyms refers to an instrument of the JWST?",
+    "Options":"NIRSpec; HELIOS; Exo-FMS; HAZMAT",
+    "Answer":"A",
+    "Image":""
+  },
+  {
+    "Question":"A star has the luminosity L₀. The temperature T of the star doubles. How does the luminosity change?",
+    "Options":"2 × L₀; 4 × L₀; 8 × L₀; 16 × L₀",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"An object emits light at a wavelength of 200 nanometers. You receive the light at 1000 nanometers. What is the redshift z?",
+    "Options":"z = 1.2; z = 4; z = 5; z = 6",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"Why is it hard to observe the universe with infrared radiation from the Earth's surface?",
+    "Options":"Harmful to humans; Blocked by the atmosphere; Reflected by the atmosphere; Distorted by the atmosphere",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"The moment of inertia of a solid cylinder with radius R and mass M is given by ...",
+    "Options":"MR²/2; 2MR²/5; 3MR²/10; MR²/3",
+    "Answer":"A",
+    "Image":""
+  },
+  {
+    "Question":"Kepler's 2nd law states that ...",
+    "Options":"the orbit of a planet is an ellipse; dA/dt is constant; a³/T² is constant; a²/T³ is constant",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"Scientists detect no CH₃OH and no NH₃ in the atmosphere of a sub-Neptune planet. What type of surface does this planet probably have?",
+    "Options":"Shallow surface; Water oceans; Dry surface; Methane oceans",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"Sub-Neptune planets are ...",
+    "Options":"smaller than Neptune; bigger than Neptune; farther away than Neptune; closer than Neptune",
+    "Answer":"A",
+    "Image":""
+  },
+  {
+    "Question":"The surface temperature (in °C) of the Sun is close to ...",
+    "Options":"5200°C; 5500°C; 5800°C; 6000°C",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"An object's spectral energy distribution (SED) is formally given by ...",
+    "Options":"dE/dλ; dE/dt; dz/dλ; dz/dt",
+    "Answer":"A",
+    "Image":""
+  },
+  {
+    "Question":"Galileo discovered with his telescope that Venus ...",
+    "Options":"has a diameter similar to the Earth; has mountains on the surface; has phases like the Moon; has clouds in the atmosphere",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"The Jovian planets are ...",
+    "Options":"Mercury, Venus, Earth, Mars; Mercury, Venus, Earth, Mars, Jupiter, Saturn; Jupiter, Saturn, Uranus, Neptune; Uranus, Neptune",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"Neptune's diameter is similar to ...",
+    "Options":"Venus; Jupiter; Saturn; Uranus",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"Compared to the Sun's surface temperature, sunspots are ...",
+    "Options":"cooler; hotter; same temperature; sometimes hotter and sometimes cooler",
+    "Answer":"A",
+    "Image":""
+  },
+  {
+    "Question":"The brightest star in the night sky is called ...",
+    "Options":"Polaris / North star; Betelgeuse; Alpha Centauri; Sirius",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"Alpha Centauri is the closest star system to the Earth. It is located on the ...",
+    "Options":"northern hemisphere, 1.3 light-years away; northern hemisphere, 4.3 light-years away; southern hemisphere, 1.3 light-years away; southern hemisphere, 4.3 light-years away",
+    "Answer":"D",
+    "Image":""
+  },
+  {
+    "Question":"The atmosphere of Venus contains high amounts of ...",
+    "Options":"Methane; Sulfur; Phosphorus; Iron",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"What is the name of Jupiter's moon shown in the figure below?",
+    "Options":"Io; Europa; Callisto; Ganymede",
+    "Answer":"A",
+    "Image":"static/images/2022q29.png"
+  },
+  {
+    "Question":"The moon Titan orbits around ...",
+    "Options":"Mars; Jupiter; Saturn; Neptune",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"NASA's Europa Clipper mission launched in October 2024 to explore Jupiter's moon Europa. When is it expected to arrive at Jupiter?",
+    "Options":"2028; 2029; 2030; 2031",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"The Europa Clipper spacecraft will use gravity assists from which planets to reach Jupiter?",
+    "Options":"Mars only; Earth only; Mars and Earth; Venus and Earth",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"What is the primary scientific goal of NASA's Europa Clipper mission?",
+    "Options":"Search for water ice; Investigate potential habitability; Study Jupiter's magnetosphere; Map surface composition",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"The Artemis II mission, planned for 2025, will be the first crewed mission to...",
+    "Options":"land on the Moon; orbit the Moon; fly around the Moon; establish a lunar base",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"How many astronauts will crew the Artemis II mission around the Moon?",
+    "Options":"2; 3; 4; 6",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"NASA's SPHEREx observatory, launching in 2025, is designed to study...",
+    "Options":"exoplanets; the history of the universe; solar flares; asteroid composition",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"The Intuitive Machines IM-2 lunar lander mission in 2025 was part of which NASA program?",
+    "Options":"Artemis; CLPS (Commercial Lunar Payload Services); New Frontiers; Discovery",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"What happened to the IM-2 lunar lander after it touched down on the Moon in March 2025?",
+    "Options":"Perfect upright landing; Landed on its side; Failed to land; Lost communication",
+    "Answer":"B",
+    "Image":""
+  },
+  {
+    "Question":"China's Queqiao-2 relay satellite, launched in 2024, is designed to support missions to which location?",
+    "Options":"Mars; Venus; the Moon's far side; Jupiter",
+    "Answer":"C",
+    "Image":""
+  },
+  {
+    "Question":"NASA's PACE satellite, launched in February 2024, is designed to study Earth's...",
+    "Options":"magnetic field; ocean ecosystems and atmosphere; seismic activity; weather patterns",
     "Answer":"B",
     "Image":""
   }
